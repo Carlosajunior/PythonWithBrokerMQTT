@@ -1,16 +1,17 @@
 ## PBL-REDES-3
+College project developed for Computer Networks subject, using Python with Flask to build an REST API, broker MQTT from Eclipe Mosquitto to publish and consume data from the classes presented on this project using MQTT communication pattern.
 
-### Setup do projeto
-- Na pasta raiz do projeto, executar pip install requirements.txt -r
+### Project Setup
+- In the project's root folder, run pip install -r requirements.txt
 
-### Executar API
-- Na pasta Api, executar o comando python routes.py
+### Run API
+- In the Api folder, execute the command python routes.py
 
-### Executar setor
+### Run Sector
 - python section.py
 
-### Executar Lixeira
--  Na pasta Lixeira, executar o comando python Lixeira.py
+### Run Trash Can
+- In the Lixeira folder, execute the command python Lixeira.py
 
-### Executar Caminhão
-- Na pasta Caminhao, executar o comando python Caminhao.py
+### Run Truck
+- In the Caminhao folder, execute the command python Caminhao.py
